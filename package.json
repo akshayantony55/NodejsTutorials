@@ -1,0 +1,22 @@
+{
+  "name": "basics",
+  "version": "1.0.0",
+  "description": "Install nodejs\r //nodejs.org",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/akshayantony55/NodejsTutorials.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/akshayantony55/NodejsTutorials/issues"
+  },
+  "homepage": "https://github.com/akshayantony55/NodejsTutorials#readme",
+  "dependencies": {
+    "express": "^4.17.1"
+  }
+}
